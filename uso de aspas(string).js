@@ -1,3 +1,5 @@
+// String
+
 /* Aspas duplas e aspas comuns pode-se escrever algo dentro.
 console.log("aaa")
 console.log('bbb')
