@@ -17,4 +17,4 @@ a
 `)
 
 console.log(2+2) // uma experessão numérica 
-console.log(`${22+22}`) //possibilidade de colocar valores se chama interpolação
+console.log(`${22+22}`) //possibilidade de colocar valores se chama interpolação, apenas com a ferramenta (``)
